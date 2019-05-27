@@ -1,5 +1,3 @@
-# ML_Images
-
 # Wprowadzenie 
 Liczenie odległości
 

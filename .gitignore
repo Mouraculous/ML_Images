@@ -1,0 +1,10 @@
+/ArtificialIntelligence_4/obj
+/ArtificialIntelligence_4/bin/Debug/netcoreapp2.1
+*.user
+/.vs/ArtificialIntelligence_4/DesignTimeBuild/*.dtbcache
+/.vs/ArtificialIntelligence_4/v15/*.suo
+/.vs/ArtificialIntelligence_4/v15/Server/sqlite3/*.lock
+/.vs/ArtificialIntelligence_4/v15/Server/sqlite3/*.ide
+/.vs/ArtificialIntelligence_4/v15/Server/sqlite3/*.ide-shm
+/.vs/ArtificialIntelligence_4/v15/Server/sqlite3/*.ide-wal
+/ArtificialIntelligence_4/rsc

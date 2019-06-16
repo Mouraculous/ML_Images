@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialIntelligence_4", "ArtificialIntelligence_4\ArtificialIntelligence_4.csproj", "{182617E2-AA8A-446F-B868-14285C174E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182617E2-AA8A-446F-B868-14285C174E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182617E2-AA8A-446F-B868-14285C174E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182617E2-AA8A-446F-B868-14285C174E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182617E2-AA8A-446F-B868-14285C174E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2471EC0B-A9AA-41BA-AEE4-2C8689269C62}
+	EndGlobalSection
+EndGlobal
